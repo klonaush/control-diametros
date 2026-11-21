@@ -7,8 +7,8 @@ no se pudieron leer.
 ## Como usarlo
 
 ```bash
-git clone <URL-de-tu-repo>
-cd <carpeta-del-repo>
+git clone https://github.com/klonaush/control-diametros.git
+cd control-diametros
 python -m venv venv
 ```
 
